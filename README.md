@@ -1,6 +1,6 @@
 # login_app
 
-Um projeto Flutter com pequeno exemplo de tela de login que foi gravado no youtube 😁
+Um projeto Flutter com pequeno exemplo de tela de login, com episódio gravado no youtube 😁
 
 - [#01 - Flutter - Login Page](https://www.youtube.com/watch?v=gSbUftwLHpU&t=429s)
 

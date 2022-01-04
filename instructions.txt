@@ -1,0 +1,7 @@
+- OK Criar pasta de assets e seus conteúdos
+- OK Incluir assets e fonts no arquivo yaml
+- OK Criar todo o esqueleto de camadas
+- OK Criar arquivos da raiz do projeto
+- OK Criar extensions
+- OK Criar todos os widgets reutilizáveis
+- Criar login page

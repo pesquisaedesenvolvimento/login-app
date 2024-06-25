@@ -1,12 +1,12 @@
 # login_app
 
-Um projeto Flutter com pequeno exemplo de tela de login, com episódio gravado no youtube 😁
+A Flutter project with a small example of a login screen, with an episode recorded on YouTube 😁
 
 - [#01 - Flutter - Login Page](https://www.youtube.com/watch?v=gSbUftwLHpU&t=429s)
 
 
-## Referências
+## References
 
-Este projeto foi construído com base no template do Figma feito por [faham khan](https://www.figma.com/@fahamullah)
+This project was built based on a Figma template created by [faham khan](https://www.figma.com/@fahamullah)
 
-- [Template Figma](https://www.figma.com/community/file/1024593645612274456)
+- [Figma](https://www.figma.com/community/file/1024593645612274456)
